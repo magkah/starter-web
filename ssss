@@ -1,0 +1,21 @@
+* [33mc0d403c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mtitle-change[m[33m)[m Changing title of html file
+* [33m1034a6b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Updating repo with changes from compare section
+* [33m3718789[m Section modification
+* [33m2f991a4[m Adding new section: Deployment
+* [33m6f1eada[m ac log
+* [33m4585343[m adding the ignore file
+* [33m36556bb[m gitconfig2
+* [33m6cc98d2[m deleting level1 and all children
+* [33m0a08568[m deleted filt
+* [33m52f2c6c[m mowinv level2 file back to level2 folder
+* [33m0297b83[m moving file from level2 to level3
+* [33mda3a46e[m renaming
+* [33m0abad19[m renaming level2-file
+* [33me1aa8de[m Adding several files
+* [33m749f591[m my first commit
+*   [33m4beb7f0[m Merge pull request #6 from jasongtaylor/feature-readme
+[32m|[m[33m\[m  
+[32m|[m * [33me73f914[m Adding Purpose section to README
+[32m|[m * [33m34f563b[m Adding README file
+[32m|[m[32m/[m  
+* [33m5c05047[m Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
