@@ -9,4 +9,5 @@ This is an example to show different parts of the Git repository and varius comm
 
 ## Deployment
 This is a simple web project. Deployment can be on any server or even local file system.
-
+## Copyright
+2018 git training
